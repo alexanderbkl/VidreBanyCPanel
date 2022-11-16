@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vidrebanycpanel/static/css/main.9a1de76b.css",
-    "main.js": "/vidrebanycpanel/static/js/main.7bade043.js",
-    "static/js/787.9fda60a0.chunk.js": "/vidrebanycpanel/static/js/787.9fda60a0.chunk.js",
-    "index.html": "/vidrebanycpanel/index.html",
-    "main.9a1de76b.css.map": "/vidrebanycpanel/static/css/main.9a1de76b.css.map",
-    "main.7bade043.js.map": "/vidrebanycpanel/static/js/main.7bade043.js.map",
-    "787.9fda60a0.chunk.js.map": "/vidrebanycpanel/static/js/787.9fda60a0.chunk.js.map"
+    "main.css": "/VidreBanyCPanel/static/css/main.9a1de76b.css",
+    "main.js": "/VidreBanyCPanel/static/js/main.9dae44e2.js",
+    "static/js/787.9fda60a0.chunk.js": "/VidreBanyCPanel/static/js/787.9fda60a0.chunk.js",
+    "index.html": "/VidreBanyCPanel/index.html",
+    "main.9a1de76b.css.map": "/VidreBanyCPanel/static/css/main.9a1de76b.css.map",
+    "main.9dae44e2.js.map": "/VidreBanyCPanel/static/js/main.9dae44e2.js.map",
+    "787.9fda60a0.chunk.js.map": "/VidreBanyCPanel/static/js/787.9fda60a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a1de76b.css",
-    "static/js/main.7bade043.js"
+    "static/js/main.9dae44e2.js"
   ]
 }
