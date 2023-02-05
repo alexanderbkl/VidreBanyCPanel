@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VidreBanyCPanel/static/css/main.14f5d942.css",
-    "main.js": "/VidreBanyCPanel/static/js/main.300fc070.js",
+    "main.css": "/VidreBanyCPanel/static/css/main.0344f451.css",
+    "main.js": "/VidreBanyCPanel/static/js/main.8b5d00d6.js",
     "static/js/787.9fda60a0.chunk.js": "/VidreBanyCPanel/static/js/787.9fda60a0.chunk.js",
     "index.html": "/VidreBanyCPanel/index.html",
-    "main.14f5d942.css.map": "/VidreBanyCPanel/static/css/main.14f5d942.css.map",
-    "main.300fc070.js.map": "/VidreBanyCPanel/static/js/main.300fc070.js.map",
+    "main.0344f451.css.map": "/VidreBanyCPanel/static/css/main.0344f451.css.map",
+    "main.8b5d00d6.js.map": "/VidreBanyCPanel/static/js/main.8b5d00d6.js.map",
     "787.9fda60a0.chunk.js.map": "/VidreBanyCPanel/static/js/787.9fda60a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14f5d942.css",
-    "static/js/main.300fc070.js"
+    "static/css/main.0344f451.css",
+    "static/js/main.8b5d00d6.js"
   ]
 }
